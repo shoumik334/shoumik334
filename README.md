@@ -44,6 +44,6 @@
 ---
 ![sadaen-parves-shoumik's github stats](https://github-readme-stats.vercel.app/api?username=shoumik334&show_icons=true&hide_border=false)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoumik334&amp;theme=default;hide_border=false" alt=""><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoumik334&amp;theme=default;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoumik334&amp;theme=default;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""></p> 
 
 
